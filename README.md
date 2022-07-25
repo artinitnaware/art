@@ -1,3 +1,3 @@
 # art
 # editing the file
-# its the parctice for editiing
+# its the practice for editiing
